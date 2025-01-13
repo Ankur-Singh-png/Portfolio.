@@ -21,7 +21,5 @@ Live Website Deployed Over Here:- https://portfolio-anksk.vercel.app/
 <br />
 <img src="https://github.com/Ankur-Singh-png/Portfolio./blob/main/pic/pic%20(6).png" alt="Alt Text" align-items="center" width="900"/>
 <br />
-<img src="https://github.com/Ankur-Singh-jpg/Portfolio/blob/main/pic/pic%20(1).png" alt="Alt Text" align-items="center" width="900"/>
-<br />
 <img src="https://github.com/Ankur-Singh-png/Portfolio./blob/main/pic/pic%20(7).png" alt="Alt Text" align-items="center" width="900"/>
 <br />
